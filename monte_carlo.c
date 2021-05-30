@@ -47,7 +47,6 @@ for(int i=1;i<=n;i++)
 { 
 float x= frandom(); 
 float y= frandom(); 
-printf("%f %f\n ",x,y);
 if(sqrt(x*x+y*y)<1) 
 c++; 
 } 
@@ -55,3 +54,5 @@ c++;
 ans = 4*c/n;
 return ans; 
 }
+
+
