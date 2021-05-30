@@ -55,4 +55,3 @@ float mc_pi(int n)
  ans = 4*c/n;
  return ans;
 }
-
