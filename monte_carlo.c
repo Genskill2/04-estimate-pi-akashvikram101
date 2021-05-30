@@ -52,7 +52,7 @@ float mc_pi(int n)
      c++;
  }
  
- ans = 4*c\n;
+ ans = 4*c/n;
  return ans;
 }
 
