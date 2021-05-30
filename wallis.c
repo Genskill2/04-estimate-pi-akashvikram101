@@ -32,3 +32,6 @@ for(int i=1;i<=n;i++)
 ans= ans*(nr/(nr-1));
 
 } 
+
+return ans*2; 
+}
